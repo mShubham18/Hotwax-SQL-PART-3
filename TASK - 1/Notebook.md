@@ -106,8 +106,5 @@ To Design a database to manage customer profiles, contact details, addresses, an
 
  **ER Diagram**
     - Created an Entity-Relationship (ER) diagram to represent the tables and relationships.
-<<<<<<< HEAD
   
-=======
->>>>>>> c3c65f22832a88bfbc447f059697caf872aa773c
-    ![](/TASK%20-%201/ER%20DIAGRAM.png)
+  ![](/TASK%20-%201/ER%20DIAGRAM.png)
